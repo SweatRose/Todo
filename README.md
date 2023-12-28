@@ -37,7 +37,7 @@
 
 ```bash
 # clone项目
-git clone https://github.com/kevinzhao2233/one-day.git
+git clone https://github.com/SweatRose/Todo
 # 进入项目目录
 cd one-day
 # 安装依赖
