@@ -12,16 +12,14 @@
         "高效工作"
     ],
     "private": true,
+    "engines": {
+        "node": "12.8.1"
+    },
     "scripts": {
         "dev": "vue-cli-service serve",
         "build": "vue-cli-service build",
         "lint": "vue-cli-service lint"
     },
-    {
-        "engines": {
-            "node": "12.8.1"
-        }
-    }
     "dependencies": {
         "animate.css": "^3.7.2",
         "axios": "^0.19.2",
